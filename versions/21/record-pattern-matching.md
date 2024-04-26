@@ -1,4 +1,4 @@
-# Record Patterns
+# Record Pattern Matching
 
 ```
 record MyRecord(String value) {}

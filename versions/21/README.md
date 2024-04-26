@@ -2,7 +2,8 @@
 
 ## Features
 
-- [Record pattern](record-patterns.md#record-patterns)
+- [Record pattern matching](record-pattern-matching.md#record-pattern-matching)
+- [Pattern matching for `switch`]()
 
 ## Download
 
